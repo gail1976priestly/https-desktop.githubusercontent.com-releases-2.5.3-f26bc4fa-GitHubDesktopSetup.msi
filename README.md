@@ -1,0 +1,1 @@
+# https-desktop.githubusercontent.com-releases-2.5.3-f26bc4fa-GitHubDesktopSetup.msi
